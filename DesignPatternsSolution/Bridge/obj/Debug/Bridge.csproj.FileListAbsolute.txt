@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\bin\Debug\Bridge.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\bin\Debug\Bridge.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\bin\Debug\Bridge.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\obj\Debug\Bridge.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\obj\Debug\Bridge.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\obj\Debug\Bridge.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Bridge\obj\Debug\Bridge.pdb

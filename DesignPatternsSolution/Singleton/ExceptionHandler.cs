@@ -11,7 +11,7 @@ namespace Singleton
     {
         private static ExceptionHandler _Instance;
         private static readonly object _Lock = new object();
-        private StreamWriter _StreamWriter;
+        private readonly StreamWriter _StreamWriter;
 
         public static ExceptionHandler Instance
         {
