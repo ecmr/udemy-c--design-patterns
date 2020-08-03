@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\obj\Debug\FactoryMethod.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\obj\Debug\FactoryMethod.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\obj\Debug\FactoryMethod.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\FactoryMethod\obj\Debug\FactoryMethod.pdb

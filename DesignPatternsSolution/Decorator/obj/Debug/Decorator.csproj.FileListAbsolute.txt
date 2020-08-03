@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\bin\Debug\Decorator.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\bin\Debug\Decorator.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\bin\Debug\Decorator.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\obj\Debug\Decorator.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\obj\Debug\Decorator.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\obj\Debug\Decorator.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\obj\Debug\Decorator.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Decorator\obj\Debug\Decorator.pdb

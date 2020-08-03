@@ -1,0 +1,5 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Composite\obj\Debug\Composite.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Composite\obj\Debug\Composite.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Composite\obj\Debug\Composite.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache

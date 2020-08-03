@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\obj\Debug\BuilderPattern.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\obj\Debug\BuilderPattern.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\obj\Debug\BuilderPattern.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\BuilderPattern\obj\Debug\BuilderPattern.pdb
