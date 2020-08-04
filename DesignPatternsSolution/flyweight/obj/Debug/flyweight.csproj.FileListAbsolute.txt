@@ -1,0 +1,9 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\bin\Debug\flyweight.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\bin\Debug\flyweight.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\bin\Debug\flyweight.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\obj\Debug\flyweight.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\obj\Debug\flyweight.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\obj\Debug\flyweight.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\obj\Debug\flyweight.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\obj\Debug\flyweight.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\flyweight\obj\Debug\flyweight.pdb

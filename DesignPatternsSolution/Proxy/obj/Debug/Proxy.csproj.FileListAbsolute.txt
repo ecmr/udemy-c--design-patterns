@@ -1,0 +1,9 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\obj\Debug\Proxy.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\obj\Debug\Proxy.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\bin\Debug\Proxy.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\bin\Debug\Proxy.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\bin\Debug\Proxy.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\obj\Debug\Proxy.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Proxy\obj\Debug\Proxy.pdb
