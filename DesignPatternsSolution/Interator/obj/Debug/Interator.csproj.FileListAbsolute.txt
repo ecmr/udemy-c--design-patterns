@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\obj\Debug\Interator.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\obj\Debug\Interator.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\obj\Debug\Interator.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\obj\Debug\Interator.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\obj\Debug\Interator.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\bin\Debug\Interator.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\bin\Debug\Interator.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\bin\Debug\Interator.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\obj\Debug\Interator.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Interator\obj\Debug\Interator.pdb

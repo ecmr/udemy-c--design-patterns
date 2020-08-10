@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\bin\Debug\Memento.cs.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\bin\Debug\Memento.cs.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\bin\Debug\Memento.cs.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\obj\Debug\Memento.cs.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\obj\Debug\Memento.cs.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\obj\Debug\Memento.cs.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\obj\Debug\Memento.cs.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\obj\Debug\Memento.cs.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\obj\Debug\Memento.cs.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Memento.cs\obj\Debug\Memento.cs.pdb

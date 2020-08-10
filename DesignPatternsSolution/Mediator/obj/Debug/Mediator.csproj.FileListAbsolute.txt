@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\bin\Debug\Mediator.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\bin\Debug\Mediator.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\bin\Debug\Mediator.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\obj\Debug\Mediator.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\obj\Debug\Mediator.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\obj\Debug\Mediator.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\obj\Debug\Mediator.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Mediator\obj\Debug\Mediator.pdb
