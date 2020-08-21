@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\bin\Debug\Strategy.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\bin\Debug\Strategy.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\bin\Debug\Strategy.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\obj\Debug\Strategy.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\obj\Debug\Strategy.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\obj\Debug\Strategy.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\obj\Debug\Strategy.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Strategy\obj\Debug\Strategy.pdb

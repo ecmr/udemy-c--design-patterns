@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Observer.BigStorePrice" Collapsed="true">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BigStorePrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.PriceObserver" Collapsed="true">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PriceObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.PriceWatcher" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAAAAQAAAAEAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>PriceWatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.Price" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAACAAAAAgAAAAAACAABAQAAAAAAAAAA=</HashCode>
+      <FileName>Price.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

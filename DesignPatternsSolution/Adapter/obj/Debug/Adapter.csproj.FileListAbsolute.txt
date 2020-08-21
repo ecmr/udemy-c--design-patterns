@@ -1,7 +1,6 @@
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Adapter\bin\Debug\Adapter.exe.config
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Adapter\bin\Debug\Adapter.exe
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Adapter\bin\Debug\Adapter.pdb
-C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Adapter\obj\Debug\Adapter.Form1.resources
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Adapter\obj\Debug\Adapter.Properties.Resources.resources
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Adapter\obj\Debug\Adapter.csproj.GenerateResource.cache

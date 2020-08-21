@@ -1,4 +1,3 @@
-C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\ChainOfResponsability\obj\Debug\ChainOfResponsability.csprojAssemblyReference.cache
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\ChainOfResponsability\obj\Debug\ChainOfResponsability.Form1.resources
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\ChainOfResponsability\obj\Debug\ChainOfResponsability.Properties.Resources.resources
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\ChainOfResponsability\obj\Debug\ChainOfResponsability.csproj.GenerateResource.cache

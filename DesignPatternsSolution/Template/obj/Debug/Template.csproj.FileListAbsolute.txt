@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\bin\Debug\Template.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\bin\Debug\Template.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\bin\Debug\Template.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\obj\Debug\Template.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\obj\Debug\Template.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\obj\Debug\Template.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\obj\Debug\Template.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\obj\Debug\Template.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Template\obj\Debug\Template.pdb

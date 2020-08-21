@@ -1,7 +1,6 @@
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Singleton\bin\Debug\Singleton.exe.config
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Singleton\bin\Debug\Singleton.exe
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Singleton\bin\Debug\Singleton.pdb
-C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Singleton\obj\Debug\Singleton.Form1.resources
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Singleton\obj\Debug\Singleton.Form2.resources
 C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Singleton\obj\Debug\Singleton.Properties.Resources.resources

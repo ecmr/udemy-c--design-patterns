@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="State.User" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAIAAAAEAAAEAAAQhAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State.State" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAgAAIAAAEAAAAAAAAQgAAAAYA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State.PremiumState" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAQAAAAAgAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>PremiumState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State.LoggedOutState" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAQAAAAAgAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>LoggedOutState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State.StandardState" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAQAAAAAgAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>StandardState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
