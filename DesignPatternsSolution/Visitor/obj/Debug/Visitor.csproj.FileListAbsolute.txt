@@ -1,0 +1,10 @@
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\bin\Debug\Visitor.exe.config
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\bin\Debug\Visitor.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\bin\Debug\Visitor.pdb
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\obj\Debug\Visitor.Form1.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\obj\Debug\Visitor.Properties.Resources.resources
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\obj\Debug\Visitor.csproj.GenerateResource.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\obj\Debug\Visitor.exe
+C:\ecmrGit\udemy-c--design-patterns\DesignPatternsSolution\Visitor\obj\Debug\Visitor.pdb
